@@ -2,7 +2,7 @@
 
 **语言版本: [English](README_en.md), [中文](README.md).**
 
-# Replacing the bigger EEPROM
+# Replacing the bigger EEPROMd
 * **2Mbit** or **1Mbit**
 **By replacing it, you may be able to achieve:**
 * Display and input in any language (implemented)
